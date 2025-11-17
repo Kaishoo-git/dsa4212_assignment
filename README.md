@@ -1,6 +1,8 @@
 # Basic Transformer For next character prediction
 
 This repository contains a minimal character-level Transformer (decoder-only) implemented in JAX/Flax for next-character prediction. 
+See GitHub repository at https://github.com/Kaishoo-git/dsa4212_assignment
+
 
 Repository structure
 --------------------
